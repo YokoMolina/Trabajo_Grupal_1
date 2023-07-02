@@ -22,7 +22,7 @@ c <- a+b+a
 ```{r }
 #Esto es faby
 #aqui va otra prueba
-#tas
+#waaaaaaaaa
 a <- 10
 
 b <- 25
@@ -34,3 +34,28 @@ c
 d <- 259
 ```
 
+
+```{r }
+#Esto es yoko
+a <- 10
+
+b <- 25
+
+c <- a+b
+
+f <- j+l
+
+d <- 259
+```
+
+
+```{r }
+#Esto es yoko
+a <- 10
+
+b <- 25
+
+d <- 259
+
+f <- a+b
+```
