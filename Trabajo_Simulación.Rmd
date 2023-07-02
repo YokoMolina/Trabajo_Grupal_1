@@ -21,6 +21,7 @@ c <- a+b+a
 
 ```{r }
 #Esto es faby
+#aqui va otra prueba
 a <- 10
 
 b <- 25
