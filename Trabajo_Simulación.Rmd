@@ -1,0 +1,19 @@
+---
+title: 'Trabajo Grupal Simulación #1'
+author: "Geoconda Molina"
+date: "2023-07-02"
+output: html_document
+---
+
+```{r }
+a <- 10
+
+b <- 25
+
+c <- a+b
+
+c
+
+d <- 259
+```
+
