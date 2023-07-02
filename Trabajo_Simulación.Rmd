@@ -53,6 +53,7 @@ d <- 259
 ```{r }
 #Esto es yoko
 #simon
+#la q te montas
 a <- 10
 
 b <- 25
